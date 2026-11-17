@@ -1,2 +1,3 @@
-# learning-about-version-control
-Learning about version control
+# Learning about Version Control
+
+Author: Tahir Hussain
